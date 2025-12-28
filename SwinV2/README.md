@@ -1,6 +1,7 @@
 # VerifyAI: OpenFake 기반 SwinV2 딥페이크 탐지
 
-팀 **VerifyAI**
+출처:
+[https://github.com/pinkkj/Deep-Fake-Detection-Model-Competition](https://github.com/pinkkj/Deep-Fake-Detection-Model-Competition/tree/main/baselines/SwinV2)
 
 이 디렉터리는 SwinV2 Transformer를 **OpenFake** 데이터셋에 대해 파인튜닝하여  
 딥페이크 이미지를 탐지하는 학습 스크립트를 포함합니다.  
