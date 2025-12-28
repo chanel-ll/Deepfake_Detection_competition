@@ -25,10 +25,10 @@ OpenFake 데이터셋과 Swin Transformer V2 기반 모델을 활용하여
 ### 🔗 모델 & 데이터셋
 - **Backbone Model (Hugging Face)**  
   SwinV2-Base Transformer  
-  🔗 https://huggingface.co/microsoft/swinv2-base-patch4-window16-256?utm_source=chatgpt.com
+  🔗 https://huggingface.co/microsoft/swinv2-base-patch4-window16-256
 
 - **OpenFake Dataset (Hugging Face Dataset)**  
-  🔗 https://huggingface.co/datasets/ComplexDataLab/OpenFake?utm_source=chatgpt.com
+  🔗 https://huggingface.co/datasets/ComplexDataLab/OpenFake
 
 ---
 
