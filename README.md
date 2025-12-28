@@ -1,6 +1,6 @@
 # Deepfake_Detection_competition
 2025 딥페이크 범죄 대응을 위한 AI 탐지 모델 경진대회
-# Deepfake Detection using SwinV2 (OpenFake-based)
+project : Deepfake Detection using SwinV2 (OpenFake-based)
 
 ## 🚀 Overview
 본 프로젝트는 **Deepfake Detection** 문제를 대상으로,  
